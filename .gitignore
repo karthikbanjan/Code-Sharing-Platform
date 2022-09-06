@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Code Sharing Platform/task/build/
+/Code Sharing Platform/task/build/classes/java/main/
+/Code Sharing Platform/task/out/
+/Topics/Instant/Min and max Instant units/out/
+/Topics/LocalDate/30 years before and after/out/
